@@ -1,4 +1,4 @@
-with open("c:\\Users\\a7618\\Desktop\\Advent of Code\\2024\\2\\Input.txt", 'r') as file:
+with open("Input.txt", 'r') as file:
 	lines = [line.strip() for line in file]
 
 def is_safe(report):
